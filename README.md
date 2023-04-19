@@ -1,3 +1,3 @@
 # Colab Notebooks ⚡
 To review more detailed code explanation, please search here <br/>
-https://drive.google.com/drive/folders/1r_pVaUGneHfEse1QsbNTSleONxz7o6pr?usp=sharing
+https://colab.research.google.com/drive/1D3Aqo381cTh5t277598u4gWDrcfQD2go?usp=sharing
